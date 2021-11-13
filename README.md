@@ -1,4 +1,4 @@
-# Python apps
+# Python scripts
 
 - Counter letter
 - MPH to MPS
