@@ -6,3 +6,4 @@
 - Decimal convertor (Binary, Hex and Octal)
 - Primer number script
 - Password Generator
+- Clock or Counter with iterator
